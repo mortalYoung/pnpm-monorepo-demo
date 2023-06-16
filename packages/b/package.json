@@ -1,0 +1,6 @@
+{
+    "name": "b",
+    "dependencies": {
+        "antd": "4.22.5"
+    }
+}
